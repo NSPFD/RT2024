@@ -38,7 +38,7 @@ By the end of this workshop, you will be able to:
 ## Resources
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 - [Scipy Documentation](https://docs.scipy.org/doc/scipy/)
-- [Workshop Materials](#)
+
 
 ## How to Access and Submit Assignments from Workshop 6
 - **Accessing:** You can access the assignments for Workshop 6 through the GitHub Classroom link provided during the session.
