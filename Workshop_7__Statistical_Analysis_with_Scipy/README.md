@@ -9,31 +9,25 @@ By the end of this workshop, you will be able to:
 - Apply these techniques to real-world datasets relevant to research work.
 
 ## Workshop Agenda
-1. **Introduction to Data Wrangling with Pandas (10 minutes)**
+1. **Introduction to Data Wrangling with Pandas**
    - Overview of data wrangling tasks.
    - Real-world examples.
 
-2. **Advanced Pandas Techniques (15 minutes)**
+2. **Advanced Pandas Techniques**
    - Data cleaning and transformation.
    - Filtering, selecting, and manipulating data.
 
-3. **Merging and Joining DataFrames (10 minutes)**
+3. **Merging and Joining DataFrames**
    - Concatenation and merging data.
    - Real-world examples.
 
-4. **Introduction to Statistical Analysis with Scipy (5 minutes)**
+4. **Introduction to Statistical Analysis with Scipy**
    - Overview of Scipy and its significance.
    - Key submodules and basic setup.
 
-5. **Basic Statistical Analysis with Scipy (10 minutes)**
+5. **Basic Statistical Analysis with Scipy**
    - Descriptive and inferential statistics.
    - Performing t-tests, correlation, and regression analysis.
-
-6. **Hands-on Exercise (20 minutes)**
-   - Work on a dataset to practice the techniques covered in the workshop.
-
-7. **Q&A and Wrap-Up (5 minutes)**
-   - Open discussion and summary of key points.
 
 ## Resources
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
