@@ -31,7 +31,7 @@ By the end of this workshop, you will be able to:
 
 ## How to Access and Submit Assignments
 - **Accessing:** You can access the assignments for Workshop 8 through the GitHub Classroom link provided during the session.
-- **Submitting:** Once you've completed the assignments, push your changes to the repository using Git commands. Refer to the [GitHub Classroom Guide](#) for detailed steps.
+- **Submitting:** Once you've completed the assignments, push your changes to the repository using Git commands. 
 
 ## License
 This workshop is part of the Research Training 2024 program and is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
