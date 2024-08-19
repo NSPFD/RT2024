@@ -44,7 +44,7 @@ For the full schedule, please refer to the [Syllabus Timeline](#).
 - **Resources:**
   - [Numpy Documentation](https://numpy.org/doc/stable/)
   - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-  - [Workshop 6 Materials](#)
+  - [Workshop 6 Materials](Workshop_6__Numpy-and-Pandas)
 
 ### Workshop 7: Data Wrangling with Pandas and Statistical Analysis with Scipy
 - **Date:** August 17, 2024
@@ -54,7 +54,7 @@ For the full schedule, please refer to the [Syllabus Timeline](#).
   - Statistical analysis using Scipy.
 - **Resources:**
   - [Scipy Documentation](https://docs.scipy.org/doc/scipy/)
-  - [Workshop 7 Materials](#)
+  - [Workshop 7 Materials](Workshop_7__Statistical_Analysis_with_Scipy)
 
 ### Workshop 8: Data Visualization Techniques
 - **Date:** August 18, 2024
@@ -66,7 +66,7 @@ For the full schedule, please refer to the [Syllabus Timeline](#).
   - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
   - [Seaborn Documentation](https://seaborn.pydata.org/)
   - [Plotly Documentation](https://plotly.com/python/)
-  - [Workshop 8 Materials](#)
+  - [Workshop 8 Materials](Workshop_8__Data_Visualization)
 
 ## Contributing
 
